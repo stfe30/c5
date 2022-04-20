@@ -5,6 +5,6 @@ int main() {
   printf("Wert =  %d\n", var);
   var++;
   printf("Wert =  %d\n", var);
-  printf("Wert =  %d\n, 10/var);
+  printf("Wert =  %d\n", 10/var);
   return 0;
 }
