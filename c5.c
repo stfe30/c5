@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 int main() {
-  unsigned short int var = 65535;
+  int var = 2147483647;
   var++;
-  printf("Wert =  %u\n", var);
+  printf("Wert =  %i\n", var);
   return 0;
 }
