@@ -1,10 +1,10 @@
-// TEST-File: Overflow
+// TEST-File: Integer Overflow
 
 #include <stdio.h>
 
 int main() {
-  unsigned char var = 255;
+  unsigned int var = 255;
   var++;
-  printf("Wert =  %d\n", var);
+  printf("Wert =  %u\n", var);
   return 0;
 }
