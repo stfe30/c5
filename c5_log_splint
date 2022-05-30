@@ -1,0 +1,5 @@
+user@notebook:~/c5$ splint c5.c
+Splint 3.1.2 --- 20 Feb 2018
+
+Finished checking --- no warnings
+
